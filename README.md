@@ -18,7 +18,4 @@ Thanks and best wishes. You can do this.
 
 "I have no special talent. I am only passionately curious." - Einstein
 
-Brian Burridge
-Rails Instructor
-The Iron Yard
-Tampa / St. Pete
+Brian Burridge, Rails Instructor, The Iron Yard, Tampa / St. Pete
