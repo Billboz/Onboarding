@@ -1,6 +1,6 @@
 # Expectations
 
-* You are here for your personal goals, but like the job you will one day have, while you are here, you are part of a team.
+* Though you are here for your own personal goals, like the job you will one day have, you must consider yourself part of a team.
 * We will work both independently and in groups, but the entire time we are a team. We must communicate like one and help each other along.
 * Please share things you learn with others. Please help others when they are stuck if they ask for help. Feel free to ask for help from one another when you need it.
 * Help should always come in the way of being supportive emotionally and motivationally, and, in helping direct one another onto a path that leads to an answer. However, help should not come in the form of the answer, and most definitely not code. When I help you I will try to get you onto a path upon which you can discover the answer yourself. Please take the same approach when helping each other.
@@ -9,3 +9,4 @@
 * We will be getting into source control from the very beginning because of this class.
 * Rails is known as opinionated software and I plan to be opinionated as well. I'll tell you about things that are popular but will also tell you when I don't think they are good solutions and why.
 * Adopt the 'Beginner Mind' (see your class prep checklist) and maintain that approach throughout the entire class
+* To graduate, you must complete each homework assignment and project to the best of your ability. This does not mean it has to work perfectly the first time. It means you put in the time and the effort and made the best attempt you could. Failure to figure it out is acceptable, failure to do your best and work hard is not.
